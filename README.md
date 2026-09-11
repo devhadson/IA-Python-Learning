@@ -189,5 +189,5 @@ IA-Python-Learning/
 ```
 
 ```bash
-python main.py
+python 01.regresion-lineal/[archivo según caso de uso].py
 ```
